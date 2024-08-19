@@ -12,9 +12,9 @@ url: "https://stressd.xyz" # the base hostname & protocol for your site
 # twitter_username: 
 github_username: renjian-buchai
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
+viewsourceroot: https://github.com/Renjian-buchai/renjian-buchai.github.io/blob/gh-pages/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/new/master
+newsourceroot: https://github.com/Renjian-buchai/renjian-buchai.github.io/blob/gh-pages/
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 #duoshuo_shortname: lixizhi
