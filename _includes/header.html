@@ -32,9 +32,11 @@
               {% else %}
               <li>
             {% endif %}
+            {% if p.title != site.title %}
             <a><span class="glyphicon {{ p.icon }}"></span>
               {{ p.title }} 
              </a></li>
+            {% endif %}
           {% endif %}
         {% endfor %}
       </ul>
