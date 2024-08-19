@@ -96,7 +96,7 @@ ___
 
 A reader for .arcpkg files, that are used to store the abovementioned ArcCreate fanmade charts.
 
-It was made for the sole purpose of making the ArcCreate Archive, not for portability nor safety. Thus, I discourage the use of the reader on unvetted files. 
+It was made for the sole purpose of making the ArcCreate Archive, not for portability nor safety. Thus, I discourage the use of the reader on unvetted files.
 Especially since it contains the following lines of code:
 
 ![Horrible code. Why did I come just to suffer?](../resources/shitcode.png)

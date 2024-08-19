@@ -1,5 +1,8 @@
 ---
 layout: frontpage
+title: How Stressful
+comments: false
+permalink: /
 ---
 
 # How Stressful
