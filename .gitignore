@@ -2,5 +2,4 @@ _site
 .sass-cache
 ./Gemfile.lock
 .jekyll-metadata
-pages
 _posts
