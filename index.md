@@ -16,29 +16,6 @@ Feel free to communicate me with English or Chinese.
 
 ___
 
-#### Projects
-
-Projects I\'m currently working on
-
-- ArcCreate Archival Project
-
-Projects I\'m putting on hold
-
-- Brainfck
-- Antiformatter
-- csstdLib
-
-Projects I do not intend to maintain
-
-- Arccreate-rd
-
-Projects I consider complete
-
-- String sort
-- Cinitpp
-
-___
-
 #### Entertainment
 
 Games I enjoy playing (Approximately in descending order of preference)
