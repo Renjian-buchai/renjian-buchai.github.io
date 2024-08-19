@@ -7,7 +7,7 @@ permalink: /dl/
 
 # Downloads
 
-A collection of downloads that I've archived for future references.
+A collection of downloads that I\'ve archived for future references.
 
 ___
 
@@ -31,7 +31,7 @@ Stuff related to Arcaea, my beloved 2.0
 
 ArcCreate is a fanmade chart editor and Arcaea chart player. I am currently archiving the charts in the chart repositories in the ArcCreate Discord Server.
 
-I have also databased every chart in the archive. From there, I've extracted a handful of observations from the database.
+I have also databased every chart in the archive. From there, I\'ve extracted a handful of observations from the database.
 
 See the latest observations [<ins>here</ins>](https://github.com/ArcCreate-Archival-Team/arccreate-archive/tree/main/stat)
 
