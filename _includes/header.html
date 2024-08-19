@@ -32,8 +32,8 @@
               {% else %}
               <li>
             {% endif %}
-            <a href="{{ p.url | prepend: site.baseurl }}"><span class="glyphicon {{ p.icon }}"></span>
-             {{ p.title }} 
+            <a><span class="glyphicon {{ p.icon }}"></span>
+              <!-- {{ p.title }}  -->
              </a></li>
           {% endif %}
         {% endfor %}
