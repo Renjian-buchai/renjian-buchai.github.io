@@ -5,11 +5,9 @@ comments: false
 permalink: /about/
 ---
 
-# How Stressful
+# Hi, my name is not Segfault
 
-## Hi, my name is not Segfault
-
-### About
+## About
 
 Hi, my online handle is Segfault. I sometimes go by gahjouyooj, uytdsheffhgewf, ukccdeb49f, Renjian-buchai, or How Stressful.
 
@@ -19,7 +17,7 @@ Feel free to communicate me with English or Chinese.
 
 ___
 
-#### Entertainment
+### Entertainment
 
 Games I enjoy playing (Approximately in descending order of preference)
 
@@ -56,7 +54,7 @@ Template errors yay.
 
 ___
 
-#### Contact me
+### Contact me
 
 - [Tumblr](https://uytdsheffhgewf.tumblr.com/)
 - Discord: @segfault_coredumped
