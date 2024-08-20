@@ -94,7 +94,7 @@ Shiny PURE percentage is an OK gauge of accuracy on charts you have PMed before[
 To improve stamina, you can try playing hard charts **that you can read**.
 If you can\'t read the chart, please don\'t play it. You\'ll build bad muscle memory[^2]<sup>,</sup>[^3].
 
-As stated by Marina, you should focus on the other skillset when you're having trouble on one skillset.
+As stated by Marina, you should focus on the other skillset when you\'re having trouble on one skillset.
 Most people improve the quickest when they work on a variety of skillsets at once.
 
 ___
@@ -102,7 +102,7 @@ ___
 ## Miscellaneous Tips
 
 A lot of these tips have parts that are directly quoted from Marina.
-If they're quoted directly, I'll place them in quote blocks.
+If they\'re quoted directly, I\'ll place them in quote blocks.
 Anything I add or rephrase will either be outside the quote blocks, or in `code blocks`.
 
 ## How do I improve at
@@ -119,11 +119,11 @@ Playing over and over again might also cause mind block.
 If you retry a pattern you misread over and over again, yet continue to miss them, you might build an association between that pattern and the incorrect movement.
 Not good.
 
-Your skills don't exist in a vacuum.
+Your skills don\'t exist in a vacuum.
 If you fail to hit a fast pattern consistently, it may not just be about speed.
-It's possible that, if you just train reading, you'll somehow find a better way to play it, thus lowering the speed requirements.
+It\'s possible that, if you just train reading, you\'ll somehow find a better way to play it, thus lowering the speed requirements.
 
-(Also, you'll see why I added `reliable` there in a few sections)
+(Also, you\'ll see why I added `reliable` there in a few sections)
 
 ### General accuracy
 
@@ -134,12 +134,12 @@ You can also try listening to the song.
 Without hitsounds.
 
 The hitsounds can massively fuck up your perception of the rhythm.
-Tapping a short section of 1/3 notes as 1/4 notes will make it sound like 1/4 while you're playing, despite the LOSTs and FARs you're probably getting.
+Tapping a short section of 1/3 notes as 1/4 notes will make it sound like 1/4 while you\'re playing, despite the LOSTs and FARs you\'re probably getting.
 
-Also, I can't believe that I have to say this, but play with sound.
-People claiming they've not improved by not hearing the music have probably never played SUPERNOVA or Genesis (From the Chunithm collab).
+Also, I can\'t believe that I have to say this, but play with sound.
+People claiming they\'ve not improved by not hearing the music have probably never played SUPERNOVA or Genesis (From the Chunithm collab).
 
-Also, playing with hitsounds on is usually considered better when playing rhythm games. They help you sync your hitsounds with the music, thus figure out if you're early or late.
+Also, playing with hitsounds on is usually considered better when playing rhythm games. They help you sync your hitsounds with the music, thus figure out if you\'re early or late.
 
 You should not be playing with your offsets often.
 Messing with your offsets too often can make you reliant on it.
@@ -154,7 +154,7 @@ Maybe for the first week or month of playing, sure. But, if you keep adjusting i
 
 For hopefully obvious reasons, this is quite similar to improving general accuracy.
 
-Since you can't adjust judgement timings in Arcaea, the usual method of playing with tighter judgements doesn't work here.
+Since you can\'t adjust judgement timings in Arcaea, the usual method of playing with tighter judgements doesn\'t work here.
 
 ### Stamina 2.0
 
@@ -167,23 +167,23 @@ Remember to tap softly. The harder you tap, the more energy you waste.
 
 > Consider adopting a multifinger playstyle if endurance is a real issue for you, since this will spread the exertion out across more fingers.
 
-I don't think that is the main advantage of a multifinger playstyle, but sure. I don't play fingers enough to comment.
+I don\'t think that is the main advantage of a multifinger playstyle, but sure. I don\'t play fingers enough to comment.
 
 ___
 
 Finally, some advice for thumb players!
 
-Shock. Haven't seen that in a long time.
+Shock. Haven\'t seen that in a long time.
 
 When playing handheld, you can push your screen up with your other fingers to touch your thumb.
 For me, it saves quite a bit of stamina, since the exertion is spread to the other 6 fingers that I use to support my phone.
 
 ### Tech
 
-There's no solid definition for tech charts.
+There\'s no solid definition for tech charts.
 
-Tech charts are usually just weird to play, or difficult for reasons of "Why can't I hit that pattern?" or "Wtf is that pattern?".
-Other than that, it's difficult to categorise the charts.
+Tech charts are usually just weird to play, or difficult for reasons of "Why can\'t I hit that pattern?" or "Wtf is that pattern?".
+Other than that, it\'s difficult to categorise the charts.
 
 Alternate definition. If you see a chart:
 
@@ -192,7 +192,7 @@ Alternate definition. If you see a chart:
 - Was charted by Exschwasion, or
 - Was charted by Exschwasion,
 
-It's probably a tech chart.
+It\'s probably a tech chart.
 
 > Tech charts tend to want you to understand them in order to play them well.
 > Research them by watching PM (not chart view) videos online before you play, and for songs with complicated rhythms, listen to them repeatedly to ensure you know what to expect from them.
@@ -205,4 +205,4 @@ ___
 
 [^2]: [Mind Block, redirects to google.com](https://www.google.com/search?q=mind+block+rhythm+games&oq=mind+block+rhythm+games)
 
-[^3]: [Mind Block, redirects to osu.ppy.sh](https://osu.ppy.sh/wiki/en/Gameplay/Mind_block). Though not specifically about Arcaea, mind block isn't specific to Arcaea, either
+[^3]: [Mind Block, redirects to osu.ppy.sh](https://osu.ppy.sh/wiki/en/Gameplay/Mind_block). Though not specifically about Arcaea, mind block isn\'t specific to Arcaea, either
