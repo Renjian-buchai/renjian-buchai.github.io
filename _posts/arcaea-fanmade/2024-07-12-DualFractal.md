@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chart Release: Dual Fractal by M2U [Future 9]"
-date:   2024-06-13 00:00:00
+date:   2024-07-12 00:00:00
 categories: arcaeaFanmade
 ---
 
