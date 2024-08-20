@@ -30,44 +30,6 @@ Projects I consider complete
 
 ___
 
-## String Sort
-
-A CLI that sorts a string by alphabetical order. In a... Different way.
-
-Written in C++
-
-[<ins>Github</ins>](https://github.com/Renjian-buchai/string-sort)
-
-[<ins>Gitlab</ins>](https://gitlab.com/renjian-buchai/string-sort)
-
-___
-
-## Antiformatter
-
-A CLI that formats files. Also in a... Different way.
-
-Written in C++, regardless of what github claims.
-
-![Very formatted, very easy to read.](https://64.media.tumblr.com/b87a19ce087f62f012d5d790e8b2da3b/tumblr_inline_s7um93VI8Y1y9a0q4_500.png)
-
-It\'s a meme project, so I set out to make it as cursed as possible.
-
-[<ins>Github</ins>](https://github.com/Renjian-buchai/anti-formatter)
-
-[<ins>Gitlab</ins>](https://gitlab.com/renjian-buchai/anti-formatter)
-
-___
-
-## Brainfck
-
-An interpreter for the esoteric programming language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck).
-
-[<ins>Github</ins>](https://github.com/Renjian-buchai/bfuck01)
-
-[<ins>Gitlab</ins>](https://gitlab.com/renjian-buchai/bfuck01)
-
-___
-
 ## Cinitpp
 
 A CLI to initialise a project with a single command.
@@ -84,7 +46,7 @@ ___
 
 An archive of charts for ArcCreate, an emulator for Arcaea meant to accomodate fanmade charts.
 
-The intention is to archive each chart at the end of each year, after that year's ACC (ArcCreate Charting Competition).
+The intention is to archive each chart at the end of each year, after that year\'s ACC (ArcCreate Charting Competition).
 
 Meanwhile, the information within the charts are stored in an sqlite .db for future use, in case anyone wants to analyse the trends in the files.
 
@@ -104,3 +66,43 @@ Especially since it contains the following lines of code:
 [<ins>Github</ins>](https://github.com/ArcCreate-Archival-Team/ArcCreate-rd/)
 
 [<ins>Gitlab</ins>](https://gitlab.com/arccreate-archival-team/arccreate-rd)
+
+___
+
+## Antiformatter
+
+A CLI that formats files. Also in a... Different way.
+
+Written in C++, regardless of what github claims.
+
+![Very formatted, very easy to read.](https://64.media.tumblr.com/b87a19ce087f62f012d5d790e8b2da3b/tumblr_inline_s7um93VI8Y1y9a0q4_500.png)
+
+It\'s a meme project, so I set out to make it as cursed as possible.
+
+[<ins>Github</ins>](https://github.com/Renjian-buchai/anti-formatter)
+
+[<ins>Gitlab</ins>](https://gitlab.com/renjian-buchai/anti-formatter)
+
+___
+
+## String Sort
+
+A CLI that sorts a string by alphabetical order. In a... Different way.
+
+Written in C++
+
+[<ins>Github</ins>](https://github.com/Renjian-buchai/string-sort)
+
+[<ins>Gitlab</ins>](https://gitlab.com/renjian-buchai/string-sort)
+
+___
+
+## Brainfck
+
+An interpreter for the esoteric programming language [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck).
+
+[<ins>Github</ins>](https://github.com/Renjian-buchai/bfuck01)
+
+[<ins>Gitlab</ins>](https://gitlab.com/renjian-buchai/bfuck01)
+
+___
