@@ -5,7 +5,7 @@ date:   2024-06-13 00:00:00
 categories: arcaeaFanmade
 ---
 
-{% include youtube.html link="mHRydK4gF_g" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2bRpsnCU7lY?si=5ldNa-ka5ta7zG_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ___
 
