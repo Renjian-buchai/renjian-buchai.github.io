@@ -3,8 +3,8 @@
  */
 /* commom */
 body {
-	/* background-image: ; */
-    font-family: 'Microsoft YaHei', 'SimHei', sans-serif;
+	background-image: none;
+  font-family: 'Microsoft YaHei', 'SimHei', sans-serif;
 }
 article p{
 	/*text-indent: 2em;*/
