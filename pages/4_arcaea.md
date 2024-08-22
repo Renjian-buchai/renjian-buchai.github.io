@@ -121,9 +121,9 @@ The sky input boundary is not a rectangle, but a trapezium.
 Green area: Area where sky notes and arcs are generally placed.
 
 This means that you can disregard those sections in most cases, which can technically help reduce mental load.
-Chances are, you've noticed this instinctively, though.
+Chances are, you\'ve noticed this instinctively, though.
 
-Previously, notes placed in the red area would only appear in Beyond charts, but as of late, they've appeared in some future charts (Ahem, Manic Jeer).
+Previously, notes placed in the red area would only appear in Beyond charts, but as of late, they\'ve appeared in some future charts (Ahem, Manic Jeer).
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 ### Stamina 2.0
 
-This 'stamina' here does not refer to the stamina skillset, but your actual, physical stamina.
+This \'stamina\' here does not refer to the stamina skillset, but your actual, physical stamina.
 
 Learning to conserve stamina is just as important as building it.
 
@@ -216,7 +216,7 @@ Common stamina charts include:
 - Distorted Fate (10+), and
 - SAIKYO STRONGER (11)
 
-At least from my experience as a thumb player. Maybe it's different for tablet players. Feel free to correct me.
+At least from my experience as a thumb player. Maybe it\'s different for tablet players. Feel free to correct me.
 
 ___
 
@@ -261,7 +261,7 @@ In Arcaea, streams usually just refer to long sections of single notes with a co
 
 Remember to stay consistent when you alternate.
 
-Also, don't think that you can cheese it by playing them as jumps, like in osu!mania. No charts are fast enough to enable that. Cheesing will also screw up your muscle memory, and that's bad<sup>[citation needed]</sup>.
+Also, don\'t think that you can cheese it by playing them as jumps, like in osu!mania. No charts are fast enough to enable that. Cheesing will also screw up your muscle memory, and that\'s bad<sup>[citation needed]</sup>.
 
 To practise streams, you can play charts that have a lot of trills.
 Trills will drill the muscle memory of alternating and tapping at a constant rate into your muscle memory.
@@ -286,10 +286,10 @@ The hitboxes of floor notes extends below the line, which can make more space fo
 For thumb and handheld players, your grip is paramount, here.
 
 To test your grip, play SUPERNOVA. Your thumb should be able to comfortably **trill** the trills.
-It doesn't matter whether you can comfortably play it with one hand; trill it.
+It doesn\'t matter whether you can comfortably play it with one hand; trill it.
 Adjust your grip until you can trill it.
 
-Once you hit a certain point, there'll be even harder trills, crosshands, or trains that may not even be in the common hit area[^5].
+Once you hit a certain point, there\'ll be even harder trills, crosshands, or trains that may not even be in the common hit area[^5].
 Not much you can do here, other than play Manic Jeer, and update your grip as needed.
 
 ___
@@ -299,24 +299,24 @@ ___
 > You can practice for slow charts by setting your note speed to about 2 or so and playing PRS 7s, which should have roughly the same note density.
 > During slow charts or sections, try to focus on the notes immediately in front of you and not on what is coming up in the distance
 
-Also, it's not just about tapping too fast, it's about tapping fast enough. Also, remember to tap based on rhythm rather than what you're reading.
-It's natural if your timing is off. Faster notespeeds makes it much more obvious when to tap, since the gap between timings are much more visible.
+Also, it\'s not just about tapping too fast, it\'s about tapping fast enough. Also, remember to tap based on rhythm rather than what you\'re reading.
+It\'s natural if your timing is off. Faster notespeeds makes it much more obvious when to tap, since the gap between timings are much more visible.
 
 ___
 
 ### Speed Change Charts
 
 > Speed change charts require you to be able to adapt to what they throw at you beyond just being able to read the slow parts.
-> Arcaea does not have indicators `specifically made for speed changes`, so unfortunately you're stuck with watching for subtle tells in the chart (notes getting closer together or farther apart`, bar lines appearing before or after they're supposed to`) and memorizing when it speeds up or slows down.
+> Arcaea does not have indicators `specifically made for speed changes`, so unfortunately you\'re stuck with watching for subtle tells in the chart (notes getting closer together or farther apart`, bar lines appearing before or after they\'re supposed to`) and memorizing when it speeds up or slows down.
 
 Speed change charts are also knows as SV (Speed Variation) charts and soflan in osu!mania and most other VSRGs respectively.
 
 All of the tells are emergent behaviours caused by the speed changes.
 
 Thing is, they may not be indicative
-For example, the sudden reversals in [<ins>ALTER EGO</ins>](https://youtu.be/9yML3LPwE3g?si=ae_pRvJepRESGJmK&t=110) [<ins>Désive</ins>](https://youtu.be/5diyFaPKkDo?si=EwsPVu43BC4Q2bnc&t=158) doesn't look strange, until you tap them, when you may accidentally let go.
+For example, the sudden reversals in [<ins>ALTER EGO</ins>](https://youtu.be/9yML3LPwE3g?si=ae_pRvJepRESGJmK&t=110) [<ins>Désive</ins>](https://youtu.be/5diyFaPKkDo?si=EwsPVu43BC4Q2bnc&t=158) doesn\'t look strange, until you tap them, when you may accidentally let go.
 
-They also don't tell if if it speeds up or slows down.
+They also don\'t tell if if it speeds up or slows down.
 
 The bar lines are also quite difficult to see, especially with all the arcs, traces and whatnot.
 
@@ -326,66 +326,66 @@ ___
 
 ### Sky notes
 
-For simplicity, let's call both arcs and sky notes 'sky notes', renaming the actual sky note to 'arctaps'.
+For simplicity, let\'s call both arcs and sky notes \'sky notes\', renaming the actual sky note to \'arctaps\'.
 
-Sky notes' input areas are fuzzy by design. In practise, you could technically just tap in the area enclosed by the red trapezium...
+Sky notes\' input areas are fuzzy by design. In practise, you could technically just tap in the area enclosed by the red trapezium...
 
 ![Image of arc & sky note boundaries](../resources/arcTapBoundary.png)
 
 ...and be perfectly fine.
 
-This is because the height of the sky notes' hit boxes extends quite far above and beyond the actual note.
+This is because the height of the sky notes\' hit boxes extends quite far above and beyond the actual note.
 Therefore, when you tap sky notes, you should take note the horizontal axis more than the vertical axis.
 
 This is not saying that you should only tap within the trapezium shown above.
 Tapping above the note can give you more space to manoeuver under your hand.
 
 In the case of trains (Or a long jack), you can tap above and below the arctap to play it as a trill.
-By process of 'More finger more easier to go more faster', it makes an impossibly fast jack into an alright jack.
+By process of \'More finger more easier to go more faster\', it makes an impossibly fast jack into an alright jack.
 
-Unless you're playing Ouroboros or Rise of the World.
+Unless you\'re playing Ouroboros or Rise of the World.
 
 ___
 
-Arcs' timing is also relatively lenient, much like hold notes.
+Arcs\' timing is also relatively lenient, much like hold notes.
 Your finger only has to be on each arc for long enough to get all of the ticks.
 
 Once you get the tick, your finger can leave the arc.
 If there are no more ticks in the arc, you can safely let go.
 However, **letting go in the middle of an arc will result in a red arc**.
 
-If you want to mimic Bengalee[^6], and tap notes in the middle of arcs, you will have to move your fingers off the arc's hit area, *then* let go, before tapping again *outside of the arc hit area*, *then* move your finger back to the arc.
+If you want to mimic Bengalee[^6], and tap notes in the middle of arcs, you will have to move your fingers off the arc\'s hit area, *then* let go, before tapping again *outside of the arc hit area*, *then* move your finger back to the arc.
 
-For slams, or 'vertical arcs' in some parts of the community, you should treat them as a normal arc with the LATE hit window.
+For slams, or \'vertical arcs\' in some parts of the community, you should treat them as a normal arc with the LATE hit window.
 Usually, there will only be 1 tick in a slam.
 
 Also, remember that moving your fingers early is usually better than moving them late with slams.
 
 ___
 
-> Sky notes`'s` hitboxes `are different` when they get lower.
-> If you keep losing them when you're clearly hitting where they are, try to aim just a little bit above where you think the note should be.
+> Sky notes`\'s` hitboxes `are different` when they get lower.
+> If you keep losing them when you\'re clearly hitting where they are, try to aim just a little bit above where you think the note should be.
 
 I suspect that this is just an engine limitation that may or may not be intentionally added into the game.
 If they let you tap in sections where both sky notes and floor notes are registered, it seems to prioritise the floor notes?
-I have no evidence for this, it's solely by feeling.
+I have no evidence for this, it\'s solely by feeling.
 
 So, just aim a little higher.
 
 ___
 
-### That one section you can't PM
+### That one section you can\'t PM
 
-> If you're consistently getting losts in the same place at a point where you would otherwise be FRing or PMing the chart, pay attention to which specific note is causing you trouble.
+> If you\'re consistently getting losts in the same place at a point where you would otherwise be FRing or PMing the chart, pay attention to which specific note is causing you trouble.
 > Focus on the note (or pattern) that is actually causing you problems and leave the other hand to work off of muscle memory.
 
-Note that this advice only works if you can actually read, and know how to play that section. If you don't know, fall back to the suggestions in [<ins>tech</ins>](#tech)
+Note that this advice only works if you can actually read, and know how to play that section. If you don\'t know, fall back to the suggestions in [<ins>tech</ins>](#tech)
 
-If this still doesn't work, it could be bad muscle memory. Take a break from this chart (Or from Arcaea altogether, though we all know that there's no chance of that) and come back to it later.
+If this still doesn\'t work, it could be bad muscle memory. Take a break from this chart (Or from Arcaea altogether, though we all know that there\'s no chance of that) and come back to it later.
 
-If that *still* doesn't work, try to find a way to cheese it, or see if [<ins>ChespinFrosty</ins>](https://www.youtube.com/@ChepFrosty) has a video that can help you out.
+If that *still* doesn\'t work, try to find a way to cheese it, or see if [<ins>ChespinFrosty</ins>](https://www.youtube.com/@ChepFrosty) has a video that can help you out.
 
-Actually, just watch ChespinFrosty's videos regardless of playstyle. He provides tips that can help most regardless of playstyle. Should have included that in the first section.
+Actually, just watch ChespinFrosty\'s videos regardless of playstyle. He provides tips that can help most regardless of playstyle. Should have included that in the first section.
 
 ___
 
