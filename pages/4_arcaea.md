@@ -34,6 +34,7 @@ Table of Contents:
     - [Stamina](#stamina)
   - [Miscellaneous Tips](#miscellaneous-tips)
     - [Sky input](#sky-input)
+    - [Reading Light Side charts](#reading-light-side-charts)
   - [How do I improve at](#how-do-i-improve-at)
     - [Anything in general](#anything-in-general)
     - [General accuracy](#general-accuracy)
@@ -124,6 +125,19 @@ This means that you can disregard those sections in most cases, which can techni
 Chances are, you\'ve noticed this instinctively, though.
 
 Previously, notes placed in the red area would only appear in Beyond charts, but as of late, they\'ve appeared in some future charts (Ahem, Manic Jeer).
+
+___
+
+### Reading Light Side charts
+
+This isn't a problem everyone has. By process of possible blindness, I have it, so I'm including all the tips I've found to solve this problem anyways.
+
+- Use Hikaritsu Reunion to switch Light-side charts to the Conflict-side.
+- Increase phone brightness
+- Play charts with lots of sky notes, tech and reading patterns (e.g. Halcyon, Live Fast Die Young, Attraqtia, Defection, Lightning Screw, or LAMIA) in Conflict mode to improve your overall reading ability.
+- Adjust your note speed. It may or may not help, but once you're comfortable with it, **stay with it**. Adjusting it all the time will fuck with your hand-eye coordination (Or reading muscle memory? Idk), which makes it counterproductive.
+- If it's hard to read the timings of sky notes, try reading the shadows under them. It might increase how much you have to read, but it's better than being unable to read anything.
+- Switch over to Light-side once you're used to the chart in the Conflict-side.
 
 ___
 
@@ -314,7 +328,7 @@ Speed change charts are also knows as SV (Speed Variation) charts and soflan in 
 All of the tells are emergent behaviours caused by the speed changes.
 
 Thing is, they may not be indicative
-For example, the sudden reversals in [<ins>ALTER EGO</ins>](https://youtu.be/9yML3LPwE3g?si=ae_pRvJepRESGJmK&t=110) [<ins>Désive</ins>](https://youtu.be/5diyFaPKkDo?si=EwsPVu43BC4Q2bnc&t=158) doesn\'t look strange, until you tap them, when you may accidentally let go.
+For example, the sudden reversals in [<ins>ALTER EGO</ins>](https://youtu.be/9yML3LPwE3g?si=ae_pRvJepRESGJmK&t=110) and [<ins>Désive</ins>](https://youtu.be/5diyFaPKkDo?si=EwsPVu43BC4Q2bnc&t=158) doesn\'t look strange, until you tap them, when you may accidentally let go.
 
 They also don\'t tell if if it speeds up or slows down.
 
