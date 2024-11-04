@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chart Release: BATTLE UNDER A BROKEN SKY [Future 9+]"
-date:   2024-07-12 00:00:00
+date:   2024-10-02 00:00:00
 categories: arcaeaFanmade
 ---
 
