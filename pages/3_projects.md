@@ -11,7 +11,7 @@ Here\'s a list of my projects, which can be considered my portfolio.
 
 Projects I\'m currently working on
 
-- ArcCreate Archival Project
+- RVHS2024 Game Jam
 
 Projects I\'m putting on hold
 
@@ -22,11 +22,24 @@ Projects I\'m putting on hold
 Projects I do not intend to maintain
 
 - Arccreate-rd
+- ArcCreate Archival Project
 
 Projects I consider complete
 
 - String sort
 - Cinitpp
+
+___
+
+## RVHS Game Jam 2024
+
+A game that utilises the themes: Deception; Symbiosis
+
+Probably not a very good game, but at least it's made in SDL2, so it's, at least, a difficult game to make.
+
+[<ins>Github</ins>](https://github.com/Renjian-buchai/game00)
+
+[<ins>Github Project</ins>](https://github.com/users/Renjian-buchai/projects/6)
 
 ___
 
@@ -50,7 +63,11 @@ The intention is to archive each chart at the end of each year, after that year\
 
 Meanwhile, the information within the charts are stored in an sqlite .db for future use, in case anyone wants to analyse the trends in the files.
 
-[<ins>Github</ins>](https://github.com/ArcCreate-Archival-Team)
+The archive has been inherited by [sarcasticallystupidscott](https://github.com/ilovecheespo). The database will no longer be analysed and updated.
+
+Original: [<ins>Github</ins>](https://github.com/Renjian-buchai/ArcCreate-Archive)
+
+Current: [<ins>Github</ins>](https://github.com/Ilovecheesepo/arccreate-archive)
 
 ___
 
