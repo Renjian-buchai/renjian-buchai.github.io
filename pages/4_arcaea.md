@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arcaea
+title: 
 comments: false
 permalink: /arcaea/
 ---
