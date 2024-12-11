@@ -17,6 +17,14 @@ Feel free to communicate me with English or Chinese.
 
 ___
 
+### Resume
+
+Download my redacted resume [here](../resources/resume-redacted.pdf)
+
+For my full resume, feel free to e-mail me at segfault@stressd.xyz
+
+___
+
 ### Entertainment
 
 Games I enjoy playing (Approximately in descending order of preference)
@@ -56,6 +64,7 @@ ___
 
 ### Contact me
 
+- [e-mail](segfault@stressd.xyz)
 - [Tumblr](https://uytdsheffhgewf.tumblr.com/)
 - Discord: @segfault_coredumped
 - [Github](https://github.com/renjian-buchai)
